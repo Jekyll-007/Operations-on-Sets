@@ -5,3 +5,5 @@ print("updated set",my_set)
 my_set2={1,2,11,12,13,14,15,11}
 my_set3=my_set.intersection(my_set2)
 print(my_set3)
+my_set4=my_set.union(my_set2)
+print(my_set4)
